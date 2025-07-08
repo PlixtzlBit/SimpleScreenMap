@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: SimpleScreenMap
+Version: 0.1.0
+Summary: A small package with functions that make display compatibility easier.
+Home-page: https://github.com/ACMBitz7/SimpleScreenMap
+Author: ACMBitz7
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=2.7
